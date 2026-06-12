@@ -25,5 +25,5 @@ npm test
 - Do not store real PII in logs or repo.
 - Provide demo curl examples here.
 
-#Wireframe
+## Wireframe
 <img width="7006" height="1197" alt="promptinjectionguardrail" src="https://github.com/user-attachments/assets/5e291fa9-d2bb-43b1-a30b-c9d3a83575f3" />
